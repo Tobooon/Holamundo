@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datos del Estudiante</title>
+</head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link href='https://fonts.googleapis.com/css?family=RobotoDraft' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><style>
+html,body,h1,h2,h3,h4,h5 {font-family: "RobotoDraft", "Roboto", sans-serif}
+.w3-bar-block .w3-bar-item {padding: 16px}
+ .container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        background: #fff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+        text-align: center;
+        color: #555;
+    }
+    .info {
+        margin: 10px 0;
+    }
+    .label {
+        font-weight: bold;
+        color: #444;
+    }
+</style>
+<style>
+h1 {color:blue; font-size:29px;}
+</style>
+<body>
+<h1> Datos del estudiante</h1>
+<div class="info">
+            <span class="label">Nombre:</span> Josias Tobon Azua
+</div>
+<div class="info">
+  <span class="label">Matrícula:</span> 1998014
+</div>
+<div class="info">
+ <span class="label">Materia:</span> Desarrollo de bases de datos
+</div>
+<div class="info">
+ <span class="label">Carrera:</span> Gestion de la informacion y recursos digitales
+</div>
+<div class="info">
+ <span class="label">fecha:</span> 22 de enero de 2025
+</div>
+<div class="info">
+
+</body>
+</html>
+
